@@ -1,11 +1,5 @@
 # NexGen Uptime — Predictive Maintenance
 
-
-[![Status](https://img.shields.io/badge/status-prototype-blue.svg)](https://github.com)
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org)
-[![Streamlit](https://img.shields.io/badge/streamlit-ui-orange.svg)](https://streamlit.io)
-[![Docs](https://img.shields.io/badge/docs-Mermaid-green.svg)](https://mermaid.js.org)
-
 Lightweight Streamlit application demonstrating LSTM-based Remaining-Useful-Life
 (RUL) prediction, failure-mode probability breakdowns, and interactive dashboards
 for predictive maintenance experiments.
