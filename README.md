@@ -1,6 +1,5 @@
 # NexGen Uptime — Predictive Maintenance
 
-
 Lightweight Streamlit application demonstrating LSTM-based Remaining-Useful-Life
 (RUL) prediction, failure-mode probability breakdowns, and interactive dashboards
 for predictive maintenance experiments.
